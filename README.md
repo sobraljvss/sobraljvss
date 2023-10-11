@@ -4,7 +4,7 @@
 <p align="center">I'm a enthusiastic 17yo IT learner, lover both of Software Development (usually with JavaScript) and Data Science (mainly with Python).</p>
 <p align="center">At this moment, I'm dedicating myself to MERN (MongoDB, Express.js, React and Node.js), but am also looking forward Python (Flask and Django) and containerization with Docker and Kubernetes.</p>
 
-<p align="center">Reach me via **sobraljvss@gmail.com** or sobraljvss on GitHub.</p>
+<p align="center">Reach me via <strong>sobraljvss@gmail.com</strong> or <strong>sobraljvss</strong> on GitHub.</p>
 
 <h3 align="center">Currently learning:</h3>
 
